@@ -1,10 +1,22 @@
 h1 {
     text-align: center;
     font-size: 400%;
+    padding: 0%;
+    margin-bottom: 0;
 }
 
 h2 {
     text-align: center;
-    font-size: 100%;
+    font-size: 120%;
     font-weight: normal;
+}
+
+.div_sections {
+    text-align: center;
+}
+
+.link_sections {
+    display: inline-block;
+    padding: 8px;
+    margin: 3px;
 }
